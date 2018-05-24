@@ -1,0 +1,24 @@
+#box{
+	width: 400px;
+	margin: 0 auto;
+}
+
+#box h1{
+	position: relative;
+	left: 90px;
+}
+
+#box h2{
+	position: relative;
+	left: 120px;
+}
+
+
+
+td{
+	height:100px;
+	width: 100px;
+	border: 2px solid black;
+	text-align: center;
+	font-size: 70px;
+}
